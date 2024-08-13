@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/travel.png",
+    "description": "This is a Dream Travels project made to learn the latest languages by building an website.",
+    "skills": ["HTML", "CSS", "JAVASCRIPT", "BOOTSTRAP"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/datatable.png",
+    "description": "This is a Employee Data Table project made to learn the latest languages by building an website.",
+    "skills": ["React", "CSS", "JAVASCRIPT", "BOOTSTRAP"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/Estate.png",
+    "description": "This is a Dream Home project made to learn the latest languages by building an website.",
+    "skills": ["HTML", "CSS", "BOOTSTRAP"],
+    "demo": "https://www.example.com"
+  }
+]
